@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
 <h3 align="center">A musician and developer.</h3>
-- 🎶 I make music
-- 🪓 I like survival games
-- 🔫 FPS games are nice too
-- 🖥️ My program is game design
+
+- 🎶 I make music **asddasd**
+
+- 🪓 I like survival games **asdsadsa**
+
+- 🔫 FPS games are nice too **asdasdad**
 
 - 📫 How to reach me: **charles.2628518@nv.ccsd.net**
 

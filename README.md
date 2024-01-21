@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Charles</h1>
+<h1 align="center">I'm Charles</h1>
 <h3 align="center">A musician and developer.</h3>
 
 - 🎶 I make music
